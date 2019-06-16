@@ -1,0 +1,7 @@
+C:\Users\Victor\Source\Repos\LISTA10-EX2\LISTA10-EX2\bin\Debug\LISTA10-EX2.exe.config
+C:\Users\Victor\Source\Repos\LISTA10-EX2\LISTA10-EX2\bin\Debug\LISTA10-EX2.exe
+C:\Users\Victor\Source\Repos\LISTA10-EX2\LISTA10-EX2\bin\Debug\LISTA10-EX2.pdb
+C:\Users\Victor\Source\Repos\LISTA10-EX2\LISTA10-EX2\obj\Debug\LISTA10-EX2.csprojAssemblyReference.cache
+C:\Users\Victor\Source\Repos\LISTA10-EX2\LISTA10-EX2\obj\Debug\LISTA10-EX2.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Source\Repos\LISTA10-EX2\LISTA10-EX2\obj\Debug\LISTA10-EX2.exe
+C:\Users\Victor\Source\Repos\LISTA10-EX2\LISTA10-EX2\obj\Debug\LISTA10-EX2.pdb
